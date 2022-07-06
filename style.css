@@ -1,6 +1,5 @@
 body {
     margin: 0;
-    padding-bottom: 50px;
 
 }
 
@@ -133,7 +132,7 @@ body {
 
 .team {
     margin-top: 5%;
-    background-image: linear-gradient(rgb(238, 164, 130), rgb(221, 71, 33));
+    background-image: linear-gradient(to right, rgb(248, 149, 104), rgb(221, 71, 33));
 
 }
 
