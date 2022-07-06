@@ -6,7 +6,6 @@ body {
 
 .flex-container {
     display: flex;
-    justify-content: center;
 }
 
 
@@ -73,7 +72,7 @@ body {
 }
 
 #select-amount {
-
+    justify-content: center;
     padding: 40px;
 }
 
@@ -121,7 +120,32 @@ body {
     background-color: rgb(229, 235, 243);
 }
 
+.half-width {
+    width: 50%;
+    margin-top: 5%;
+}
 
+.half-width img {
+    width: 80%;
+    vertical-align: middle;
+    padding-bottom: 20px;
+}
+
+.team {
+    margin-top: 5%;
+    background-image: linear-gradient(rgb(238, 164, 130), rgb(221, 71, 33));
+
+}
+
+#our-team {
+    color: aliceblue;
+    font-size: 3em;
+    text-align: center;
+    padding: 2px;
+    margin: 0%;
+    padding-top: 10%;
+
+}
 
 #email {
     color: rgb(182, 181, 181);
